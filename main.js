@@ -2,7 +2,7 @@ const Pinboard = {
 
     url: {
         add_link: 'https://pinboard.in/add?showtags={show_tags}&url={url}&title={title}&description={description}',
-        read_later: 'https://pinboard.in/add?later=yes&noui=yes&jump=close&url={url}&title={title}',
+        read_later: 'https://pinboard.in/add?later=yes&noui=yes&jump=close&tags=reading,kindle-to&url={url}&title={title}',
         save_tabs: 'https://pinboard.in/tabs/save/',
         show_tabs: 'https://pinboard.in/tabs/show/',
         login: 'https://pinboard.in/popup_login/'
