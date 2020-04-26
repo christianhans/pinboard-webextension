@@ -3,8 +3,8 @@
     "name": "Pinboard WebExtension (Forked)",
     "short_name": "Pinboard",
     "version": "1.50",
-    "description": "Easily add links to Pinboard. A remake of the official Pinboard extension.",
-    "author": "George Pop",
+    "description": "Easily add links to Pinboard.",
+    "author": "Christian Hans (Original author: George Pop)",
     "homepage_url": "https://github.com/christianhans/pinboard-webextension",
     "applications": {
         "gecko": {
