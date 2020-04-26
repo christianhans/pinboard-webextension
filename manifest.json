@@ -1,11 +1,11 @@
 {
     "manifest_version": 2,
-    "name": "Pinboard WebExtension",
+    "name": "Pinboard WebExtension (Forked)",
     "short_name": "Pinboard",
     "version": "1.50",
     "description": "Easily add links to Pinboard. A remake of the official Pinboard extension.",
     "author": "George Pop",
-    "homepage_url": "https://github.com/gapop/pinboard-webextension",
+    "homepage_url": "https://github.com/christianhans/pinboard-webextension",
     "applications": {
         "gecko": {
             "id": "pinboard-webextension@helloworld.ro",
