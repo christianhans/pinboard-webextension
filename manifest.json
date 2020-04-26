@@ -8,7 +8,7 @@
     "homepage_url": "https://github.com/christianhans/pinboard-webextension",
     "applications": {
         "gecko": {
-            "id": "pinboard-webextension@helloworld.ro",
+            "id": "pinboard-webextension@christianhans",
             "strict_min_version": "60.0"
         }
     },
